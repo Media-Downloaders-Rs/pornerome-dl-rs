@@ -1,0 +1,15 @@
+/target/
+/downloads/
+/*.exe
+/.migration-backup/
+/.global-dl/
+/.superpowers/
+/docs/
+/.bmad/
+/.bmad-core/
+/bmad/
+/_bmad/
+/AGENTS.md
+/ENGINE_MAINTENANCE.md
+/clippy.log
+/verify.log
